@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "122203972267",
+    "firebase_url": "https://prueba1-9b3c7.firebaseio.com",
+    "project_id": "prueba1-9b3c7",
+    "storage_bucket": "prueba1-9b3c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122203972267:android:7f4a12e3dbd53866aa0dee",
+        "android_client_info": {
+          "package_name": "com.js.pruebatecnica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122203972267-f4e2kt3ss92v5cf4gmh3kbhqico6dj5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm0od5FrQpAfxamFgAOnjZ5UPNTDxNT-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122203972267-f4e2kt3ss92v5cf4gmh3kbhqico6dj5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
